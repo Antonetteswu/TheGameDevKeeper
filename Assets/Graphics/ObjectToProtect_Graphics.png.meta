@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 80fa6d9c08c8f1648b16c7c3a6c53017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -263741460897661097
+    second: Girl-Sheet_0
+  - first:
+      213: 8309694591333590181
+    second: Girl-Sheet_1
+  - first:
+      213: -3363099619712590248
+    second: Girl-Sheet_2
+  - first:
+      213: -4152683665062051980
+    second: Girl-Sheet_3
+  - first:
+      213: -1758077536424625135
+    second: Girl-Sheet_4
+  - first:
+      213: 1171354650835029182
+    second: Girl-Sheet_5
+  - first:
+      213: -3134956304867257145
+    second: Girl-Sheet_6
+  - first:
+      213: -2160971428791721086
+    second: Girl-Sheet_7
+  - first:
+      213: 7847974730232294768
+    second: Girl-Sheet_8
+  - first:
+      213: 8198961857093203852
+    second: Girl-Sheet_9
+  - first:
+      213: 1642545316348381705
+    second: Girl-Sheet_10
+  - first:
+      213: -4256908812141884583
+    second: Girl-Sheet_11
+  - first:
+      213: -4866901146514761763
+    second: Girl-Sheet_12
+  - first:
+      213: 3923513939705512525
+    second: Girl-Sheet_13
+  - first:
+      213: -4764642566997028930
+    second: Girl-Sheet_14
+  - first:
+      213: -3540350229435798244
+    second: Girl-Sheet_15
+  - first:
+      213: -7061396944837125346
+    second: Girl-Sheet_16
+  - first:
+      213: 5270463737609224232
+    second: Girl-Sheet_17
+  - first:
+      213: 8068209386399154649
+    second: Girl-Sheet_18
+  - first:
+      213: -494464159309763969
+    second: Girl-Sheet_19
+  - first:
+      213: 6808601498845946308
+    second: Girl-Sheet_20
+  - first:
+      213: 6109675216394681431
+    second: Girl-Sheet_21
+  - first:
+      213: 2042381775330867634
+    second: Girl-Sheet_22
+  - first:
+      213: -7463067669483019552
+    second: Girl-Sheet_23
+  - first:
+      213: -576090355439273729
+    second: Girl-Sheet_24
+  - first:
+      213: -1504388792534240051
+    second: Girl-Sheet_25
+  - first:
+      213: 2532313921489377287
+    second: Girl-Sheet_26
+  - first:
+      213: 3828474658056711450
+    second: Girl-Sheet_27
+  - first:
+      213: -4057740123962258
+    second: Girl-Sheet_28
+  - first:
+      213: -3780245355469012624
+    second: Girl-Sheet_29
+  - first:
+      213: 1670505388096696357
+    second: Girl-Sheet_30
+  - first:
+      213: 7698280136264172315
+    second: Girl-Sheet_31
+  - first:
+      213: -2754599507831980957
+    second: Girl-Sheet_32
+  - first:
+      213: -5082786168721069468
+    second: Girl-Sheet_33
+  - first:
+      213: -4876874725864459984
+    second: Girl-Sheet_34
+  - first:
+      213: 4944106115907874708
+    second: Girl-Sheet_35
+  - first:
+      213: 5723418029174235839
+    second: Girl-Sheet_36
+  - first:
+      213: 6201537185896903334
+    second: Girl-Sheet_37
+  - first:
+      213: -4837627383022669724
+    second: Girl-Sheet_38
+  - first:
+      213: -381947976824520352
+    second: Girl-Sheet_39
+  - first:
+      213: 3669806610711257180
+    second: Girl-Sheet_40
+  - first:
+      213: 1925799978533942642
+    second: Girl-Sheet_41
+  - first:
+      213: 7232759180715365054
+    second: Girl-Sheet_42
+  - first:
+      213: -2905866626113859095
+    second: Girl-Sheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ObjectToProtect_Graphics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1056
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b3570f423df24395f40f71e1ebd65
+      internalID: -1879825417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjectToProtect_Graphics_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebde1623444099542b2d9c1f746567f8
+      internalID: 1344921455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjectToProtect_Graphics_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44874ad3c5d71547a8117e2ae935ef5
+      internalID: 2114877973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjectToProtect_Graphics_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9323383d7efc4143bcdb194d75635ac
+      internalID: -129541240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObjectToProtect_Graphics_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e8a21c358e74f4a8b52af8835433aa
+      internalID: -1314096950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 610d00021c3b87f45b4e21bcecf07fb3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1056.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ObjectToProtect_Graphics_0: -1879825417
+      ObjectToProtect_Graphics_1: 1344921455
+      ObjectToProtect_Graphics_2: 2114877973
+      ObjectToProtect_Graphics_3: -129541240
+      ObjectToProtect_Graphics_4: -1314096950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
